@@ -1,0 +1,82 @@
+self.__precacheManifest = (self.__precacheManifest || []).concat([
+  {
+    "revision": "89eec02fe6110be3e03a4424996eee9f",
+    "url": "/index.html"
+  },
+  {
+    "revision": "803077498605fee04679",
+    "url": "/static/css/2.17e5ed98.chunk.css"
+  },
+  {
+    "revision": "02347fbfa07edd052bda",
+    "url": "/static/css/main.894b460a.chunk.css"
+  },
+  {
+    "revision": "803077498605fee04679",
+    "url": "/static/js/2.36f32e52.chunk.js"
+  },
+  {
+    "revision": "02347fbfa07edd052bda",
+    "url": "/static/js/main.725c8c3e.chunk.js"
+  },
+  {
+    "revision": "de468f8fcce67d3c50fd",
+    "url": "/static/js/runtime-main.5b89e5f6.js"
+  },
+  {
+    "revision": "d0993710328ca111de6d6e26033bd69d",
+    "url": "/static/media/Ai.d0993710.svg"
+  },
+  {
+    "revision": "2994784f9ef967899461d68bed53202c",
+    "url": "/static/media/android.2994784f.svg"
+  },
+  {
+    "revision": "ee37f1889fbf4cee6d668b6dc0fc747a",
+    "url": "/static/media/blog.ee37f188.png"
+  },
+  {
+    "revision": "3707da3c6a394c7ee2523273f8d98a25",
+    "url": "/static/media/css.3707da3c.svg"
+  },
+  {
+    "revision": "5080b23311306af190ace460e3e7018c",
+    "url": "/static/media/html5.5080b233.svg"
+  },
+  {
+    "revision": "665074ac09892e0879fd821118f60cab",
+    "url": "/static/media/java.665074ac.svg"
+  },
+  {
+    "revision": "61ed8b054178d0e8d1285ad8f29f4045",
+    "url": "/static/media/javascript.61ed8b05.svg"
+  },
+  {
+    "revision": "5910c77646f5ccc910f60b680ee073a6",
+    "url": "/static/media/menu.5910c776.png"
+  },
+  {
+    "revision": "cfee114b0b3de28827b98bee2ac0d6f0",
+    "url": "/static/media/mongodb.cfee114b.svg"
+  },
+  {
+    "revision": "05108f13b918eb48e9c0e89edd697ab1",
+    "url": "/static/media/nodejs.05108f13.svg"
+  },
+  {
+    "revision": "915bb002b92d7b5c5da3cc2a7035bbe6",
+    "url": "/static/media/ps.915bb002.svg"
+  },
+  {
+    "revision": "5f0931d4e6a64cde862793480acd17cd",
+    "url": "/static/media/react.5f0931d4.svg"
+  },
+  {
+    "revision": "3f07f0e6aace1d577fa3e71a2765aaf9",
+    "url": "/static/media/streamy.3f07f0e6.png"
+  },
+  {
+    "revision": "d259acee09ac78e990a4ea6ec2949a24",
+    "url": "/static/media/swipe.d259acee.png"
+  }
+]);
