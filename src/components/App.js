@@ -6,7 +6,7 @@ import ContactMe from '../Pages/ContactMe';
 import WebProjectPage from "../Pages/WebProjectPage";
 
 import './style/App.css';
-import { HashRouter, Switch, Route } from "react-router-dom";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
 import MobileProjectPage from "../Pages/MobileProjectPage";
 
 
@@ -14,7 +14,7 @@ import MobileProjectPage from "../Pages/MobileProjectPage";
 class App extends Component {
   render() {
     return (
-        <HashRouter basename='/'>
+        <BrowserRouter>
             <Switch>
                 <Route path="/" exact>
                     <Home />
@@ -32,7 +32,7 @@ class App extends Component {
                     <ContactMe />
                 </Route>
             </Switch>
-        </HashRouter>
+        </BrowserRouter>
     );
   }
 }
