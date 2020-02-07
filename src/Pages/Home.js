@@ -37,14 +37,13 @@ class Home extends Component {
                 </p>
 
                 {renderProject(
-                    ['react', 'javascript', 'html5', 'css'],
-                    '',
-                    'Survey',
-                    'Send Survey to a list of recipients (email addresses). \n' +
-                    'Their response is recorded on a server using MongoDB. \n' +
-                    'Sending surveys costs coins. Payment system implemented using Stripe API',
-                    'https://github.com/AhmedAkbarali/Survey',
-                    {background: `linear-gradient(145deg, #037971 0%, #03b5aa 100%)`}
+                ['react', 'javascript', 'html5', 'css'],
+                '',
+                'Survey',
+                'Send Survey to a list of emails Their response is recorded on a server. \n' +
+                'Payment API: Stripe, Server: MongoDB',
+                'https://github.com/AhmedAkbarali/Survey',
+                {background: `linear-gradient(145deg, #037971 0%, #03b5aa 100%)`}
                 )}
 
                 {renderProject(
@@ -60,7 +59,7 @@ class Home extends Component {
                 {renderProject(
                     ['java', 'android'],
                     swipe,
-                    'Swipe-To-Delete',
+                    'Swipe To Delete',
                     'A game designed for a User Study in order to quantify the value of\n' +
                     'swiping to delete objects like emails in mobile applications.',
                     'https://github.com/AhmedAkbarali/Swipe-To-Delete',
@@ -87,17 +86,16 @@ class Home extends Component {
     /* Introductory heading with animated css (text change) */
     renderIntroduction() {
         return (
-            <div className="content">
-                <div className="content__container">
-                    <p className="content__container__text">
-                        I'm a
-                    </p>
-                    <ul className="content__container__list">
-                        <li className="content__container__list__item">Web Developer</li>
-                        <li className="content__container__list__item">Coffee Lover</li>
-                        <li className="content__container__list__item">Recent Graduate</li>
-                        <li className="content__container__list__item">Traveller</li>
-                    </ul>
+            <div className="">
+                <p className="content">
+                    I'm a
+                </p>
+                <div className="container">
+                    <div className="word w1">Web Developer</div>
+                    <div className="word w2">Coffee Lover</div>
+                    <div className="word w3">Reader</div>
+                    <div className="word w4">Recent Graduate</div>
+                    <div className="word w5">Traveller</div>
                 </div>
             </div>
         );

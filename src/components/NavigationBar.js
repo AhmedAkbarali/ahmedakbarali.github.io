@@ -26,12 +26,12 @@ class NavigationBar extends Component {
         return (
             <>
                 <Modal  className="my-modal" show={this.state.modalState} onHide={this.handleClick} centered>
-                    <Modal.Body className="my-modal-body text-white">
-                        <Link to="/" className="modal-links link" onClick={this.handleClick}>Home</Link>
-                        <Link to="/webdev" className="modal-links link" onClick={this.handleClick}>Web Development</Link>
-                        <Link to="/mobdev" className="modal-links link" onClick={this.handleClick}>Mobile Development</Link>
-                        <Link to="/skills" className="modal-links link" onClick={this.handleClick}>Skills</Link>
-                        <Link to="/contact" className="modal-links link" onClick={this.handleClick}>Contact Me</Link>
+                    <Modal.Body className="my-modal-body">
+                        <Link to={process.env.PUBLIC_URL + "/"} className="modal-links" onClick={this.handleClick}>Home</Link>
+                        <Link to={process.env.PUBLIC_URL + "/webdev"} className="modal-links " onClick={this.handleClick}>Web Development</Link>
+                        <Link to={process.env.PUBLIC_URL + "/mobdev"} className="modal-links " onClick={this.handleClick}>Mobile Development</Link>
+                        <Link to={process.env.PUBLIC_URL + "/skills"} className="modal-links " onClick={this.handleClick}>Skills</Link>
+                        <Link to={process.env.PUBLIC_URL + "/contact" }className="modal-links " onClick={this.handleClick}>Contact Me</Link>
                     </Modal.Body>
                 </Modal>
                 {/* Navigation bar at top of screen */}

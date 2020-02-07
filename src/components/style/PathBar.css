@@ -40,21 +40,7 @@
 
 @media only screen and (max-width: 600px) {
     .bottom {
-        flex-direction: column;
-        justify-content: center;
-        justify-self: center;
-        background-color: transparent;
-        margin-top: 50px;
-        align-items: center;
-    }
-
-    .bottom-anchors {
-        color: #666;
-    }
-
-    .bottom-anchors:hover {
-        cursor: pointer;
-        color: #666;
-        transform: scale(1.01);
+        visibility: hidden;
+        display: none;
     }
 }
