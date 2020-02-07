@@ -29,6 +29,12 @@
     animation-iteration-count: infinite;
 }
 
+
+@keyframes opacity {
+    0%, 100% {opacity:0;}
+    50% {opacity:1;}
+}
+
 @media only screen and (max-width: 600px) {
     .App-resume-button {
         margin-top: 150px;
