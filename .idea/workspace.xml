@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0131765-2fb2-4aad-a446-6265179303f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.265a834508270511a98b6a2de5eb369d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/2.47e06e2e.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/2.47e06e2e.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.4aeea67d.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.4aeea67d.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.ca51efdc.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.ca51efdc.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.ca51efdc.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.03979413.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.03979413.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.c2b20a0b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.c2b20a0b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/Ai.d0993710.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/android.2994784f.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/blog.ee37f188.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/css.3707da3c.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/html5.5080b233.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/java.665074ac.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/javascript.61ed8b05.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/menu.5910c776.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/mongodb.cfee114b.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/nodejs.05108f13.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/ps.915bb002.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/react.5f0931d4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/streamy.3f07f0e6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/swipe.d259acee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!AhmedAkbarali!ahmedakbarali.github.io.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!AhmedAkbarali!ahmedakbarali.github.io.git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/style/DLButton.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/DLButton.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\AhmedAkbarali\Project\ahmedakbarali.github.io\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WmKXHMLcuJ6djDChKItVGc2ZpI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ahmed's Personal Website" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AhmedAkbarali\Project\Personal-Website\src\Pages" />
+      <recent name="C:\Users\AhmedAkbarali\Project\Personal-Website\src\components\style" />
+      <recent name="C:\Users\AhmedAkbarali\Project\Personal-Website\src\components\helper" />
+      <recent name="C:\Users\AhmedAkbarali\Project\Personal-Website\src\images\skill-icons" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0131765-2fb2-4aad-a446-6265179303f8" name="Default Changelist" comment="" />
+      <created>1579749367355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579749367355</updated>
+      <workItem from="1579749370378" duration="197000" />
+      <workItem from="1579749898108" duration="56139000" />
+      <workItem from="1580226581605" duration="60234000" />
+      <workItem from="1580669508594" duration="6608000" />
+      <workItem from="1580934851507" duration="2491000" />
+      <workItem from="1580941649687" duration="16000" />
+      <workItem from="1580962563961" duration="57000" />
+      <workItem from="1580968203600" duration="2249000" />
+      <workItem from="1580973385043" duration="15187000" />
+      <workItem from="1581106748238" duration="452000" />
+      <workItem from="1581107217041" duration="872000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-3608" y="-160" key="#Notifications" timestamp="1580968326374">
+      <screen x="-3840" y="-523" width="2560" height="1400" />
+    </state>
+    <state x="-3608" y="-160" key="#Notifications/0.0.1920.1040/-3840.-523.2560.1400@-3840.-523.2560.1400" timestamp="1580968326374" />
+    <state x="-3470" y="-71" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581027528582">
+      <screen x="-3840" y="-523" width="2560" height="1400" />
+    </state>
+    <state x="-3470" y="-71" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-3840.-523.2560.1400@-3840.-523.2560.1400" timestamp="1581027528582" />
+    <state x="-3412" y="-67" key="FileChooserDialogImpl" timestamp="1581026479437">
+      <screen x="-3840" y="-523" width="2560" height="1400" />
+    </state>
+    <state x="-3412" y="-67" key="FileChooserDialogImpl/0.0.1920.1040/-3840.-523.2560.1400@-3840.-523.2560.1400" timestamp="1581026479437" />
+    <state width="1257" height="399" key="GridCell.Tab.0.bottom" timestamp="1580968375151">
+      <screen x="-3840" y="-523" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579750007539" />
+    <state width="1257" height="399" key="GridCell.Tab.0.bottom/0.0.1920.1040/-3840.-523.2560.1400@-3840.-523.2560.1400" timestamp="1580968375151" />
+    <state width="1257" height="399" key="GridCell.Tab.0.center" timestamp="1580968375151">
+      <screen x="-3840" y="-523" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579750007539" />
+    <state width="1257" height="399" key="GridCell.Tab.0.center/0.0.1920.1040/-3840.-523.2560.1400@-3840.-523.2560.1400" timestamp="1580968375151" />
+    <state width="1257" height="399" key="GridCell.Tab.0.left" timestamp="1580968375151">
+      <screen x="-3840" y="-523" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579750007539" />
+    <state width="1257" height="399" key="GridCell.Tab.0.left/0.0.1920.1040/-3840.-523.2560.1400@-3840.-523.2560.1400" timestamp="1580968375151" />
+    <state width="1257" height="399" key="GridCell.Tab.0.right" timestamp="1580968375151">
+      <screen x="-3840" y="-523" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579750007539" />
+    <state width="1257" height="399" key="GridCell.Tab.0.right/0.0.1920.1040/-3840.-523.2560.1400@-3840.-523.2560.1400" timestamp="1580968375151" />
+    <state x="-1151" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579817939443">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1151" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579817939443" />
+    <state x="-2198" y="94" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580168385646">
+      <screen x="-3840" y="-523" width="2560" height="1400" />
+    </state>
+    <state x="-2198" y="94" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040/-3840.-523.2560.1400@-3840.-523.2560.1400" timestamp="1580168385646" />
+  </component>
+</project>
