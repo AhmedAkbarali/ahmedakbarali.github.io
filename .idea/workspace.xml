@@ -2,37 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0131765-2fb2-4aad-a446-6265179303f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/precache-manifest.265a834508270511a98b6a2de5eb369d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/2.47e06e2e.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/2.47e06e2e.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.4aeea67d.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.4aeea67d.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.ca51efdc.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.ca51efdc.chunk.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.ca51efdc.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.03979413.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.03979413.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.c2b20a0b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.c2b20a0b.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/Ai.d0993710.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/android.2994784f.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/blog.ee37f188.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/css.3707da3c.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/html5.5080b233.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/java.665074ac.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/javascript.61ed8b05.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/menu.5910c776.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/mongodb.cfee114b.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/nodejs.05108f13.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/ps.915bb002.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/react.5f0931d4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/streamy.3f07f0e6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/swipe.d259acee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!AhmedAkbarali!ahmedakbarali.github.io.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!AhmedAkbarali!ahmedakbarali.github.io.git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/DLButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DLButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NavigationBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavigationBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/style/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/style/DLButton.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/DLButton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/style/IntroductionAnimation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/IntroductionAnimation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/style/NavigationBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/NavigationBar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/style/PathBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/PathBar.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,15 +19,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="C:\Users\AhmedAkbarali\Project\ahmedakbarali.github.io\.idea" />
-      </set>
-    </option>
-  </component>
   <component name="ProjectId" id="1WmKXHMLcuJ6djDChKItVGc2ZpI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -61,7 +31,6 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ahmed's Personal Website" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -108,8 +77,6 @@
       <workItem from="1580962563961" duration="57000" />
       <workItem from="1580968203600" duration="2249000" />
       <workItem from="1580973385043" duration="15187000" />
-      <workItem from="1581106748238" duration="452000" />
-      <workItem from="1581107217041" duration="872000" />
     </task>
     <servers />
   </component>
