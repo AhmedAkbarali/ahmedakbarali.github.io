@@ -9,7 +9,7 @@ class DLButton extends Component {
                     onClick={() => window.open("https://www.dropbox.com/s/q6krwp8y7zyj6ey/Ahmed%20Akbarali_resume.docx?dl=1", "_blank")}
                     className="App-resume-button"
                 >
-                    <div style={{letterSpacing: '3px'}}>
+                    <div>
                         DOWNLOAD RESUME
                     </div>
                 </button>

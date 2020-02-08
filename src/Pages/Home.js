@@ -94,7 +94,7 @@ class Home extends Component {
                     <div className="word w1">Web Developer</div>
                     <div className="word w2">Coffee Lover</div>
                     <div className="word w3">Reader</div>
-                    <div className="word w4">Recent Graduate</div>
+                    <div className="word w4">B.Sc Comp. Sci.</div>
                     <div className="word w5">Traveller</div>
                 </div>
             </div>

@@ -9,6 +9,7 @@
     font-size: 1.6em;
     border-radius: 15px;
     color: rgb(51, 51, 51);
+    letter-spacing: 3px;
 }
 
 .App-resume-button:before {
@@ -27,6 +28,13 @@
     animation-name: opacity;
     animation-duration: 2s;
     animation-iteration-count: infinite;
+}
+
+
+
+@keyframes opacity {
+    0%, 100% {opacity:0;}
+    50% {opacity:1;}
 }
 
 @media only screen and (max-width: 600px) {
