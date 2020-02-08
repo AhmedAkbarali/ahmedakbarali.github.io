@@ -5,20 +5,25 @@
 }
 
 .content {
-    padding-right: 7em;
+    text-align: left;
 }
 
 .container {
-    width: 200px;
+    width: max-content;
+    height: max-content;
+
 }
 
 .word {
+    padding-right: 0;
     font-size: 1em;
     font-weight: 700;
+    width: max-content;
+    overflow: hidden;
     opacity:0;
     position:absolute;
     top:45%;
-    left:44%;
+    left:25%;
 }
 
 .w1 {
@@ -104,23 +109,9 @@
     }
 }
 
-@media only screen and (max-width: 480px ) {
-    .content {
-        padding-right: 6em;
-    }
+@media only screen and (max-width: 768px ) {
     .word{
         top: 40%;
-        left: 40%;
-    }
-}
-
-@media only screen and (min-width: 481px) and (max-width: 768px ) {
-    .content {
-        padding-right: 8em;
-    }
-    .word{
-        top: 40%;
-        left: 37%;
     }
 }
 

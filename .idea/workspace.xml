@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0131765-2fb2-4aad-a446-6265179303f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/DLButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DLButton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NavigationBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavigationBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!AhmedAkbarali!ahmedakbarali.github.io.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!AhmedAkbarali!ahmedakbarali.github.io.git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/style/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/style/DLButton.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/DLButton.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/style/IntroductionAnimation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/IntroductionAnimation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/style/NavigationBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/NavigationBar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/style/PathBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/PathBar.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +74,7 @@
       <workItem from="1580962563961" duration="57000" />
       <workItem from="1580968203600" duration="2249000" />
       <workItem from="1580973385043" duration="15187000" />
+      <workItem from="1581125019790" duration="3025000" />
     </task>
     <servers />
   </component>
