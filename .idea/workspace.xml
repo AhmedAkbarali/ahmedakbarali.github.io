@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0131765-2fb2-4aad-a446-6265179303f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/images/bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!AhmedAkbarali!ahmedakbarali.github.io.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!AhmedAkbarali!ahmedakbarali.github.io.git" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pages/MobileProjectPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/MobileProjectPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/style/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/style/PathBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/PathBar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/blog.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/blog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/coffee-height.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/coffee-mobile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/coffee.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/contentExecution2.1bf5124d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/download.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/mike-kenneally-tNALoIZhqVM-unsplash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/streamy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/streamy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/swipe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/style/IntroductionAnimation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/IntroductionAnimation.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +76,7 @@
       <workItem from="1580973385043" duration="15187000" />
       <workItem from="1581125019790" duration="9731000" />
       <workItem from="1581291734631" duration="13661000" />
-      <workItem from="1581357535389" duration="1094000" />
+      <workItem from="1581357535389" duration="2954000" />
     </task>
     <servers />
   </component>

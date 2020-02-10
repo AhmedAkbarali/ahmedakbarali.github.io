@@ -21,7 +21,7 @@
     overflow: hidden;
     opacity:0;
     position:absolute;
-    top:45%;
+    top:44.5%;
     left:25%;
 }
 
@@ -110,7 +110,11 @@
 
 @media only screen and (max-width: 768px ) {
     .word{
-        top: 40%;
+        top: 56.5%;
+    }
+
+    .animation-wrapper {
+        margin-top: 30px;
     }
 }
 

@@ -91,7 +91,7 @@ class Home extends Component {
     /* Introductory heading with animated css (text change) */
     renderIntroduction() {
         return (
-            <div className="">
+            <div className="animation-wrapper">
                 <p className="content">
                     I'm a
                 </p>
