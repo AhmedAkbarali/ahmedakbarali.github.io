@@ -2,24 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0131765-2fb2-4aad-a446-6265179303f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/coffee-height.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/coffee-mobile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/coffee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/kristaps-ungurs-s4mxwjiCj6M-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/mike-kenneally-tNALoIZhqVM-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!AhmedAkbarali!ahmedakbarali.github.io.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!AhmedAkbarali!ahmedakbarali.github.io.git" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/DLButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DLButton.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NavigationBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavigationBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/MobileProjectPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/MobileProjectPage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/style/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/style/DLButton.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/DLButton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/style/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/Footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/style/IntroductionAnimation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/IntroductionAnimation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/style/NavigationBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/NavigationBar.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/style/PathBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/PathBar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/blog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/blog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/coffee-height.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/coffee-mobile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/coffee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/contentExecution2.1bf5124d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/mike-kenneally-tNALoIZhqVM-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/streamy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/streamy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/swipe.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +89,7 @@
       <workItem from="1580973385043" duration="15187000" />
       <workItem from="1581125019790" duration="9731000" />
       <workItem from="1581291734631" duration="13661000" />
+      <workItem from="1581357535389" duration="1094000" />
     </task>
     <servers />
   </component>

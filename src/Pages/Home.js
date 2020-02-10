@@ -8,7 +8,7 @@ import Footer from '../components/Footer';
 
 import renderProject from "../components/helper/renderProject";
 
-import bg from '../images/kristaps-ungurs-s4mxwjiCj6M-unsplash.jpg'
+import bg from '../images/bg.jpg'
 //import blog from '../images/coffee.jpg'
 
 import '../components/style/App.css';

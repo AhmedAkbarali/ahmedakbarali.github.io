@@ -5,7 +5,6 @@ import Footer from "../components/Footer";
 import renderProject from "../components/helper/renderProject";
 
 import '../components/style/App.css'
-import swipe from "../images/swipe.png";
 
 class MobileProjectPage extends React.Component {
     render() {
@@ -18,7 +17,7 @@ class MobileProjectPage extends React.Component {
 
                 {renderProject(
                     ['java', 'android'],
-                    swipe,
+                    '',
                     'Swipe-To-Delete',
                     'A game designed for a User Study in order to quantify the value of\n' +
                     'swiping to delete objects like emails in mobile applications.',
@@ -29,7 +28,7 @@ class MobileProjectPage extends React.Component {
 
                 {renderProject(
                     ['java', 'android'],
-                    swipe,
+                    '',
                     'Tiltball',
                     'Game for Mobile UI Course. Keep ball within the lines using tilt\n' +
                     ' controls while completing laps around the donut or square.',
