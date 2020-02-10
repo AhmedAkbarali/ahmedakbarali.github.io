@@ -8,9 +8,8 @@ import Footer from '../components/Footer';
 
 import renderProject from "../components/helper/renderProject";
 
-import streamy from '../images/streamy.png';
-import swipe from '../images/swipe.png'
-import blog from '../images/blog.png'
+import bg from '../images/kristaps-ungurs-s4mxwjiCj6M-unsplash.jpg'
+//import blog from '../images/coffee.jpg'
 
 import '../components/style/App.css';
 import '../components/style/IntroductionAnimation.scss';
@@ -20,7 +19,13 @@ class Home extends Component {
     render() {
         return (
             <div className="global">
-                <div className="App">
+                <div className="App home"
+                     style={{
+                         backgroundImage: `url(${bg})`,
+                         backgroundSize: '100%',
+                         border: ' 2px solid black'
+                     }}
+                >
                     <NavigationBar />
                     <div className="intro">
                         <div className="intro-container">
@@ -48,7 +53,7 @@ class Home extends Component {
 
                 {renderProject(
                     ['react', 'javascript', 'html5', 'css'],
-                    streamy,
+                    '',
                     'Streamy',
                     'A functioning streaming website similar to twitch.tv compatible \n' +
                     'with popular broadcasting software (OBS, Streamlabs etc.)',
@@ -58,7 +63,7 @@ class Home extends Component {
 
                 {renderProject(
                     ['java', 'android'],
-                    swipe,
+                    '',
                     'Swipe To Delete',
                     'A game designed for a User Study in order to quantify the value of\n' +
                     'swiping to delete objects like emails in mobile applications.',
@@ -69,7 +74,7 @@ class Home extends Component {
 
                 {renderProject(
                     ['react', 'javascript', 'html5', 'css'],
-                    blog,
+                    '',
                     'Blog',
                     'Blog website populated with dummy data using jsonPlaceholder.\n' +
                     'An educational project to learn how to use Redux. (Specifically Actions, Reducers and Store.)',
