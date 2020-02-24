@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0131765-2fb2-4aad-a446-6265179303f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!AhmedAkbarali!ahmedakbarali.github.io.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!AhmedAkbarali!ahmedakbarali.github.io.git" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pages/MobileProjectPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/MobileProjectPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pages/SkillPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/SkillPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/style/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/style/DLButton.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/DLButton.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/style/IntroductionAnimation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/IntroductionAnimation.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/style/PathBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/PathBar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/blog.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/blog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/contentExecution2.1bf5124d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/download.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/streamy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/streamy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/swipe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +84,7 @@
       <workItem from="1582508846709" duration="609000" />
       <workItem from="1582512853011" duration="713000" />
       <workItem from="1582514620861" duration="1234000" />
+      <workItem from="1582536056679" duration="729000" />
     </task>
     <servers />
   </component>
