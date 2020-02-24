@@ -20,7 +20,7 @@ class SkillPage extends React.Component {
                             <td className="skill-title">Languages:</td>
                             <td className="skill-content">
                                 C, SQL, Java,
-                                Javascript, Eiffel, Assembly, Verilog, HTML5, CSS, SCSS
+                                Javascript, Eiffel, Assembly, Verilog, HTML5, CSS3, SCSS
                             </td>
                         </tr>
                         <tr>
@@ -32,7 +32,7 @@ class SkillPage extends React.Component {
                         <tr>
                             <td className="skill-title">Frameworks:</td>
                             <td className="skill-content">
-                                ReactJS, NodeJS, MongoDB, ES6
+                                ReactJS, MongoDB, ES6, NodeJS/ExpressJS
                             </td>
                         </tr>
                         <tr>

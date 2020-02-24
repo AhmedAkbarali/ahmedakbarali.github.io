@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="f0131765-2fb2-4aad-a446-6265179303f8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!AhmedAkbarali!ahmedakbarali.github.io.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!AhmedAkbarali!ahmedakbarali.github.io.git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/SkillPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/SkillPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +32,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ahmed's Personal Website" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ahmedakbarali.github.io v0.0.1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -72,7 +79,15 @@
       <workItem from="1580973385043" duration="15187000" />
       <workItem from="1581125019790" duration="9731000" />
       <workItem from="1581291734631" duration="13661000" />
-      <workItem from="1581357535389" duration="3984000" />
+      <workItem from="1581357535389" duration="4155000" />
+      <workItem from="1581492520850" duration="599000" />
+      <workItem from="1581552616184" duration="599000" />
+      <workItem from="1581555157175" duration="3749000" />
+      <workItem from="1581798177488" duration="599000" />
+      <workItem from="1582004630919" duration="496000" />
+      <workItem from="1582508668844" duration="120000" />
+      <workItem from="1582508846709" duration="609000" />
+      <workItem from="1582512853011" duration="713000" />
     </task>
     <servers />
   </component>
@@ -91,10 +106,12 @@
       <screen x="-3840" y="-523" width="2560" height="1400" />
     </state>
     <state x="-3470" y="-71" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-3840.-523.2560.1400@-3840.-523.2560.1400" timestamp="1581027528582" />
-    <state x="-3412" y="-67" key="FileChooserDialogImpl" timestamp="1581026479437">
-      <screen x="-3840" y="-523" width="2560" height="1400" />
+    <state x="2241" y="319" key="FileChooserDialogImpl" timestamp="1582513633556">
+      <screen x="1920" y="-20" width="1920" height="1040" />
     </state>
     <state x="-3412" y="-67" key="FileChooserDialogImpl/0.0.1920.1040/-3840.-523.2560.1400@-3840.-523.2560.1400" timestamp="1581026479437" />
+    <state x="-3412" y="128" key="FileChooserDialogImpl/1920.-20.1920.1040/0.0.1920.1040/-3840.-328.2560.1400@-3840.-328.2560.1400" timestamp="1582512037059" />
+    <state x="2241" y="319" key="FileChooserDialogImpl/1920.-20.1920.1040/0.0.1920.1040/-3840.-328.2560.1400@1920.-20.1920.1040" timestamp="1582513633556" />
     <state width="1257" height="399" key="GridCell.Tab.0.bottom" timestamp="1580968375151">
       <screen x="-3840" y="-523" width="2560" height="1400" />
     </state>
