@@ -6,6 +6,7 @@ export default (
         <Route path='/' />
         <Route path='/webdev' />
         <Route path='/mobdev' />
-        <Route path='/contactme' />
+        <Route path='/contact' />
+        <Route path='/skills' />
     </Route>
 );

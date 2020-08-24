@@ -5,20 +5,20 @@
   "homepage": "https://ahmedakbarali.com",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.4.0",
+    "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
-    "bootstrap": "^4.4.1",
+    "bootstrap": "^4.5.2",
     "gh-pages": "^2.2.0",
-    "node-sass": "^4.13.1",
-    "react": "^16.12.0",
-    "react-bootstrap": "^1.0.0-beta.16",
-    "react-dom": "^16.12.0",
+    "node-sass": "^4.14.1",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.3.0",
+    "react-dom": "^16.13.1",
     "react-helmet": "^5.2.1",
-    "react-router-dom": "^5.1.2",
+    "react-router-dom": "^5.2.0",
     "react-router-sitemap": "^1.2.0",
     "react-scripts": "3.3.1",
     "react-snapshot": "^1.3.0",
-    "styled-components": "^5.0.1"
+    "styled-components": "^5.1.1"
   },
   "scripts": {
     "sitemap": "babel-node ./src/sitemap-generator.js",
@@ -28,6 +28,13 @@
     "build": "react-scripts build && react-snapshot",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "reactSnapshot": {
+    "include": [
+      "/cotact"
+    ],
+    "exclude": [],
+    "snapshotDelay": 300
   },
   "eslintConfig": {
     "extends": "react-app"
