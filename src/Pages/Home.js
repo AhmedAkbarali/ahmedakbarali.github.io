@@ -9,7 +9,6 @@ import Footer from '../components/Footer';
 import renderProject from "../components/helper/renderProject";
 
 import bg from '../images/bg.jpg'
-//import blog from '../images/coffee.jpg'
 
 import '../components/style/App.css';
 import '../components/style/IntroductionAnimation.scss';
@@ -62,6 +61,16 @@ class Home extends Component {
                 )}
 
                 {renderProject(
+                    ['react', 'javascript', 'html5', 'css'],
+                    '',
+                    'Blog',
+                    'Blog website populated with dummy data using jsonPlaceholder.\n' +
+                    'An educational project to learn how to use Redux. (Specifically Actions, Reducers and Store.)',
+                    'https://github.com/AhmedAkbarali/blogs',
+                    {background: `linear-gradient(135deg, #ba5c12 0%, rgb(139,69,19) 100% )`}
+                )}
+
+                {renderProject(
                     ['java', 'android'],
                     '',
                     'Swipe To Delete',
@@ -73,13 +82,14 @@ class Home extends Component {
                 )}
 
                 {renderProject(
-                    ['react', 'javascript', 'html5', 'css'],
+                    ['java', 'android'],
                     '',
-                    'Blog',
-                    'Blog website populated with dummy data using jsonPlaceholder.\n' +
-                    'An educational project to learn how to use Redux. (Specifically Actions, Reducers and Store.)',
-                    'https://github.com/AhmedAkbarali/blogs',
-                    {background: `linear-gradient(135deg, #ba5c12 0%, rgb(139,69,19) 100% )`}
+                    'Tiltball',
+                    'Game for Mobile UI Course. Keep ball within the lines using tilt\n' +
+                    ' controls while completing laps around the donut or square.',
+                    'https://github.com/AhmedAkbarali/Tiltball',
+                    {background: `linear-gradient(135deg, #087e8b 0%, rgb(67, 187, 245) 100%)`}
+
                 )}
 
                 <Skills />

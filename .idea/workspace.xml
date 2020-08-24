@@ -2,13 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0131765-2fb2-4aad-a446-6265179303f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/PWLogo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/PWLogoSmall.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!AhmedAkbarali!ahmedakbarali.github.io.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!AhmedAkbarali!ahmedakbarali.github.io.git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/DLButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DLButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LinkNavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LinkNavBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NavigationBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavigationBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/style/DLButton.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/DLButton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/style/ProjectCard.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/ProjectCard.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/style/Skills.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/Skills.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/kristaps-ungurs-s4mxwjiCj6M-unsplash.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,14 +34,13 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Survey" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -45,18 +54,6 @@
       <recent name="C:\Users\AhmedAkbarali\Project\Personal-Website\src\components\helper" />
       <recent name="C:\Users\AhmedAkbarali\Project\Personal-Website\src\images\skill-icons" />
     </key>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -93,58 +90,23 @@
       <workItem from="1582715409709" duration="640000" />
       <workItem from="1582725008212" duration="5892000" />
       <workItem from="1582819698365" duration="3748000" />
-      <workItem from="1583300462572" duration="1850000" />
+      <workItem from="1583300462572" duration="4730000" />
+      <workItem from="1591380678357" duration="18598000" />
+      <workItem from="1592277895150" duration="25000" />
+      <workItem from="1598291162946" duration="1229000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-3608" y="-160" key="#Notifications" timestamp="1580968326374">
-      <screen x="-3840" y="-523" width="2560" height="1400" />
+    <state x="428" y="456" key="FileChooserDialogImpl" timestamp="1592277917402">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="-3608" y="-160" key="#Notifications/0.0.1920.1040/-3840.-523.2560.1400@-3840.-523.2560.1400" timestamp="1580968326374" />
-    <state x="-3470" y="-71" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581027528582">
-      <screen x="-3840" y="-523" width="2560" height="1400" />
-    </state>
-    <state x="-3470" y="-71" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-3840.-523.2560.1400@-3840.-523.2560.1400" timestamp="1581027528582" />
-    <state x="-3412" y="128" key="FileChooserDialogImpl" timestamp="1582748400232">
-      <screen x="-3840" y="-328" width="2560" height="1400" />
-    </state>
-    <state x="-3412" y="-67" key="FileChooserDialogImpl/0.0.1920.1040/-3840.-523.2560.1400@-3840.-523.2560.1400" timestamp="1581026479437" />
-    <state x="-3412" y="128" key="FileChooserDialogImpl/1920.-20.1920.1040/0.0.1920.1040/-3840.-328.2560.1400@-3840.-328.2560.1400" timestamp="1582748400232" />
-    <state x="2241" y="319" key="FileChooserDialogImpl/1920.-20.1920.1040/0.0.1920.1040/-3840.-328.2560.1400@1920.-20.1920.1040" timestamp="1582513633556" />
-    <state width="1257" height="399" key="GridCell.Tab.0.bottom" timestamp="1580968375151">
-      <screen x="-3840" y="-523" width="2560" height="1400" />
-    </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579750007539" />
-    <state width="1257" height="399" key="GridCell.Tab.0.bottom/0.0.1920.1040/-3840.-523.2560.1400@-3840.-523.2560.1400" timestamp="1580968375151" />
-    <state width="1257" height="399" key="GridCell.Tab.0.center" timestamp="1580968375151">
-      <screen x="-3840" y="-523" width="2560" height="1400" />
-    </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579750007539" />
-    <state width="1257" height="399" key="GridCell.Tab.0.center/0.0.1920.1040/-3840.-523.2560.1400@-3840.-523.2560.1400" timestamp="1580968375151" />
-    <state width="1257" height="399" key="GridCell.Tab.0.left" timestamp="1580968375151">
-      <screen x="-3840" y="-523" width="2560" height="1400" />
-    </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579750007539" />
-    <state width="1257" height="399" key="GridCell.Tab.0.left/0.0.1920.1040/-3840.-523.2560.1400@-3840.-523.2560.1400" timestamp="1580968375151" />
-    <state width="1257" height="399" key="GridCell.Tab.0.right" timestamp="1580968375151">
-      <screen x="-3840" y="-523" width="2560" height="1400" />
-    </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1579750007539" />
-    <state width="1257" height="399" key="GridCell.Tab.0.right/0.0.1920.1040/-3840.-523.2560.1400@-3840.-523.2560.1400" timestamp="1580968375151" />
-    <state x="-1151" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579817939443">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1151" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1579817939443" />
-    <state x="-2198" y="94" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580168385646">
-      <screen x="-3840" y="-523" width="2560" height="1400" />
-    </state>
-    <state x="-2198" y="94" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040/-3840.-523.2560.1400@-3840.-523.2560.1400" timestamp="1580168385646" />
+    <state x="428" y="456" key="FileChooserDialogImpl/3840.308.1920.1020/-1920.658.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1592277917402" />
   </component>
 </project>

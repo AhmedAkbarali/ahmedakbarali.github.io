@@ -11,7 +11,7 @@ class LinkNavBar extends React.Component {
         return (
             <Navbar bsPrefix="navi-container">
                 <Nav.Item>
-                    <Nav.Link href="https://www.linkedin.com/in/ahmed-akbarali-4799b570/" target="_blank">
+                    <Nav.Link href="https://www.linkedin.com/in/ahmed-akbarali-4799b570/" rel="noreferrer" target="_blank">
                         <img
                             className="header-image"
                             src={linkedin}
@@ -21,7 +21,7 @@ class LinkNavBar extends React.Component {
                     </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav.Link href="https://www.github.com/AhmedAkbarali" target="_blank">
+                    <Nav.Link href="https://www.github.com/AhmedAkbarali" rel="noreferrer" target="_blank">
                         <img
                             className="header-image"
                             src={github}
