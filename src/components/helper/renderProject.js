@@ -18,7 +18,7 @@ export default function renderProject(skills, image, title, description, link, s
 
             {renderSkill(skills, title)}
 
-            <p className="description" style={{fontSize: '20px'}}>
+            <p className="summary" style={{fontSize: '20px'}}>
                 {description}
             </p>
             <div className="work-more">
