@@ -7,11 +7,23 @@ import {Nav, Navbar} from "react-bootstrap";
 import linkedin from "../images/linkedin.png";
 import github from "../images/github.png";
 import email from "../images/email.png";
+import {Helmet} from "react-helmet/es/Helmet";
 
 class ContactMe extends React.Component {
     render() {
         return (
             <div className="global align-items-center justify-content-center " style={{minHeight: '100vh', textAlign: 'center'}}>
+                <Helmet>
+                    <title>Contact Me</title>
+                    <meta name="keywords"
+                          content="Developer,Web Developer, Frontend developer, Frontend Engineer, Backend Developer
+                                        Mobile Developer,HTML,CSS,JavaScript, React, ReactJS, NodeJS"
+                    />
+                    <meta
+                        name="description"
+                        content="Ahmed's contact information"
+                    />
+                </Helmet>
                 <NavigationBar />
                 <p className="section-heading" style={{marginTop: '0', paddingTop: '2em'}}>
                     Contact

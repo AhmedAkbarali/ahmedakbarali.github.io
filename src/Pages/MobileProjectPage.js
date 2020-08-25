@@ -5,11 +5,23 @@ import Footer from "../components/Footer";
 import renderProject from "../components/helper/renderProject";
 
 import '../components/style/App.css'
+import {Helmet} from "react-helmet/es/Helmet";
 
 class MobileProjectPage extends React.Component {
     render() {
         return (
             <div className="global " style={{minHeight: '100vh'}}>
+                <Helmet>
+                    <title>Mobile Development</title>
+                    <meta name="keywords"
+                          content="Developer,Web Developer, Frontend developer, Frontend Engineer, Backend Developer
+                                        Mobile Developer,HTML,CSS,JavaScript, React, ReactJS, NodeJS"
+                    />
+                    <meta
+                        name="description"
+                        content="Mobile Development Projects from Ahmed's portfolio site."
+                    />
+                </Helmet>
                 <NavigationBar />
                 <p className="align-self-center section-heading">
                     Mobile Development Projects

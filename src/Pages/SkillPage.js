@@ -6,11 +6,23 @@ import Footer from "../components/Footer";
 import '../components/style/App.css';
 import '../components/style/SkillPage.scss';
 import { Table } from 'react-bootstrap';
+import {Helmet} from "react-helmet/es/Helmet";
 
 class SkillPage extends React.Component {
     render() {
         return (
           <div className="global" style={{minHeight: '100vh', position: 'relative'}}>
+              <Helmet>
+                  <title>Skills</title>
+                  <meta name="keywords"
+                        content="Developer,Web Developer, Frontend developer, Frontend Engineer, Backend Developer
+                                        Mobile Developer,HTML,CSS,JavaScript, React, ReactJS, NodeJS"
+                  />
+                  <meta
+                      name="description"
+                      content="Technology, Languages that I'm familiar with"
+                  />
+              </Helmet>
               <NavigationBar/>
               <Skills/>
               <div className="skill-table align-self-center">

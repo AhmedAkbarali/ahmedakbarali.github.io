@@ -13,11 +13,23 @@ import bg from '../images/bg.jpg'
 import '../components/style/App.css';
 import '../components/style/IntroductionAnimation.scss';
 import '../components/style/Skills.scss'
+import {Helmet} from "react-helmet/es/Helmet";
 
 class Home extends Component {
     render() {
         return (
             <div className="global">
+                <Helmet>
+                    <title>Ahmed Akbarali</title>
+                    <meta name="keywords"
+                          content="Developer,Web Developer, Frontend developer, Frontend Engineer, Backend Developer
+                                        Mobile Developer,HTML,CSS,JavaScript, React, ReactJS, NodeJS"
+                    />
+                    <meta
+                        name="description"
+                        content="Home page of Ahmed's portfolio site."
+                    />
+                </Helmet>
                 <div className="App home"
                      style={{
                          backgroundImage: `url(${bg})`,
