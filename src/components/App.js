@@ -9,9 +9,6 @@ import MobileProjectPage from "../Pages/MobileProjectPage";
 import './style/App.css';
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import {Helmet} from "react-helmet/es/Helmet";
-
-
 
 class App extends Component {
   render() {
