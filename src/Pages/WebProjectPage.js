@@ -6,7 +6,6 @@ import renderProject from "../components/helper/renderProject";
 
 import '../components/style/App.css'
 import {Helmet} from "react-helmet/es/Helmet";
-import {Route} from "react-router-dom";
 
 class WebProjectPage extends React.Component {
     render() {
