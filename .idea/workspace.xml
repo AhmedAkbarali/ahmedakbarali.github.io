@@ -2,10 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0131765-2fb2-4aad-a446-6265179303f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/NewLogoWhite2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bgmobile.jpf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/lukas-blazek-GnvurwJsKaY-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/pexels-negative-space-169573.jpf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/pexels-negative-space-169573.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/PWLogo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/NewLogoWhite.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/PWLogoSmall.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/PWLogoSmall.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pages/WebProjectPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pages/WebProjectPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/style/DLButton.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/DLButton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/DLButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/DLButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NavigationBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavigationBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/style/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/style/NavigationBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/style/NavigationBar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/bg.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +47,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -33,14 +55,19 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ahmed\Documents\Project\ahmedakbarali.github.io\src\images" />
+      <recent name="C:\Users\ahmed\Documents\Project\ahmedakbarali.github.io\public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ahmed\Documents\Project\ahmedakbarali.github.io\src\images" />
       <recent name="C:\Users\AhmedAkbarali\Project\ahmedakbarali.github.io\public" />
       <recent name="C:\Users\AhmedAkbarali\Project\Personal-Website\src\Pages" />
       <recent name="C:\Users\AhmedAkbarali\Project\Personal-Website\src\components\style" />
       <recent name="C:\Users\AhmedAkbarali\Project\Personal-Website\src\components\helper" />
-      <recent name="C:\Users\AhmedAkbarali\Project\Personal-Website\src\images\skill-icons" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -84,7 +111,36 @@
       <workItem from="1592277895150" duration="25000" />
       <workItem from="1598291162946" duration="3731000" />
       <workItem from="1598305871491" duration="11654000" />
-      <workItem from="1598412613462" duration="1352000" />
+      <workItem from="1598412613462" duration="7110000" />
+      <workItem from="1598591325253" duration="4764000" />
+      <workItem from="1598666850415" duration="1710000" />
+      <workItem from="1598833179872" duration="1207000" />
+      <workItem from="1599273237632" duration="1436000" />
+      <workItem from="1599464127384" duration="497000" />
+      <workItem from="1599493725093" duration="599000" />
+      <workItem from="1599702151112" duration="600000" />
+      <workItem from="1600106616009" duration="1870000" />
+      <workItem from="1600362095779" duration="594000" />
+      <workItem from="1600723336549" duration="4742000" />
+      <workItem from="1603829882502" duration="595000" />
+      <workItem from="1605218406355" duration="17000" />
+      <workItem from="1605742755405" duration="1247000" />
+      <workItem from="1609120583438" duration="1220000" />
+      <workItem from="1611045118231" duration="25658000" />
+      <workItem from="1611864134551" duration="2817000" />
+      <workItem from="1612851745005" duration="175000" />
+      <workItem from="1613240145218" duration="4475000" />
+      <workItem from="1613255925707" duration="770000" />
+      <workItem from="1613315964191" duration="720000" />
+      <workItem from="1613532629757" duration="985000" />
+      <workItem from="1613536269676" duration="1189000" />
+      <workItem from="1619750782212" duration="10285000" />
+      <workItem from="1620248153235" duration="1344000" />
+      <workItem from="1621232821915" duration="594000" />
+      <workItem from="1621296182380" duration="594000" />
+      <workItem from="1621431198431" duration="595000" />
+      <workItem from="1621773205570" duration="5000" />
+      <workItem from="1622408033406" duration="102000" />
     </task>
     <servers />
   </component>
@@ -95,13 +151,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-2190" y="-107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598331965460">
-      <screen x="-3840" y="-559" width="2560" height="1420" />
+    <state x="3580" y="-190" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611510311521">
+      <screen x="1920" y="-700" width="2560" height="1409" />
     </state>
-    <state x="-2190" y="-107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-3840.-559.2560.1420/1920.0.1920.1050/0.0.1920.1050@-3840.-559.2560.1420" timestamp="1598331965460" />
-    <state x="428" y="456" key="FileChooserDialogImpl" timestamp="1592277917402">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="3580" y="-190" key="#com.intellij.fileTypes.FileTypeChooser/-1080.-284.1080.1890/1920.-700.2560.1409/0.0.1920.1050@1920.-700.2560.1409" timestamp="1611510311521" />
+    <state x="3620" y="-244" key="FileChooserDialogImpl" timestamp="1613247846199">
+      <screen x="1920" y="-700" width="2560" height="1409" />
     </state>
-    <state x="428" y="456" key="FileChooserDialogImpl/3840.308.1920.1020/-1920.658.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1592277917402" />
+    <state x="3620" y="-244" key="FileChooserDialogImpl/-1080.-284.1080.1890/1920.-700.2560.1409/0.0.1920.1050@1920.-700.2560.1409" timestamp="1613247846199" />
+    <state x="3620" y="-148" key="FileChooserDialogImpl/1920.-608.2560.1420/-1080.-383.1080.1890/0.0.1920.1050@1920.-608.2560.1420" timestamp="1605840440886" />
+    <state x="3293" y="-600" width="1093" height="1216" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1611508930875">
+      <screen x="1920" y="-700" width="2560" height="1409" />
+    </state>
+    <state x="3293" y="-600" width="1093" height="1216" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/-1080.-284.1080.1890/1920.-700.2560.1409/0.0.1920.1050@1920.-700.2560.1409" timestamp="1611508930875" />
   </component>
 </project>

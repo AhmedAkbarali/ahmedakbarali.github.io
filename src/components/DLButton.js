@@ -6,8 +6,7 @@ class DLButton extends Component {
     render() {
         return (
                 <button
-
-                    onClick={() => window.open("https://www.dropbox.com/s/0gfdv3gia0eiuib/Ahmed%20Akbarali_resume.pdf?dl=1", "_blank")}
+                    onClick={() => window.open("https://www.dropbox.com/s/e7mbfdt1u3e439e/Ahmed%20Akabrali_resume_web.pdf?dl=1", "_blank")}
                     className="App-resume-button"
                 >
                     <div>

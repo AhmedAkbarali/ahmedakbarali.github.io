@@ -27,6 +27,10 @@
     align-items: center;
 }
 
+.modal-content {
+    border: 0px transparent !important;
+}
+
 .modal-links {
     text-decoration: none !important;
     color: white;

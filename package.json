@@ -32,7 +32,11 @@
   },
   "reactSnapshot": {
     "include": [
-      "/cotact"
+      "/contact",
+      "/",
+      "/webdev",
+      "/mobdev",
+      "/skills"
     ],
     "exclude": [],
     "snapshotDelay": 300

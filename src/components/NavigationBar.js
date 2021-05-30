@@ -6,6 +6,7 @@ import menu from '../images/menu.png';
 import linkedin from '../images/linkedin.png';
 import github from '../images/github.png';
 import email from '../images/email.png';
+import logo from '../images/NewLogoWhite2.svg';
 
 import './style/NavigationBar.css';
 
@@ -34,28 +35,45 @@ class NavigationBar extends Component {
                         <Link to={process.env.PUBLIC_URL + "/contact" }className="modal-links " onClick={this.handleClick}>Contact Me</Link>
                     </Modal.Body>
                 </Modal>
+
                 {/* Navigation bar at top of screen */}
                 <Navbar className="header-navbar p-1 justify-content-between fixed-top">
-                    <Nav.Item>
-                        <Nav.Link href="#" onClick={this.handleClick}>
-                            <img className="header-image" src={menu} alt="menu"/>
-                        </Nav.Link>
-                    </Nav.Item>
-
                     <Navbar>
                         <Nav.Item>
-                            <Nav.Link href="https://www.linkedin.com/in/ahmed-akbarali-4799b570/" rel="noreferrer" target="_blank">
-                                <img className="header-image" src={linkedin} alt="linkedin"/>
-                            </Nav.Link>
+                            <img className="" style={{width: '48px'}} src={logo} alt="menu"/>
                         </Nav.Item>
-                        <Nav.Item>
-                            <Nav.Link href="https://www.github.com/AhmedAkbarali" rel="noreferrer" target="_blank">
-                                <img className="header-image" src={github} alt="github"/>
-                            </Nav.Link>
+                        <Nav.Item style={{
+                            paddingLeft: '10px',
+                            fontWeight: '100',
+                            fontSize: '1.25em',
+                            fontFamily: '"Verdana", sans-serif',
+                            color: 'rgb(255,255,255)',
+                            letterSpacing: '5px'
+                        }}
+                        >
+                            AHMED
                         </Nav.Item>
-                        <Nav.Item>
-                            <Nav.Link href="mailto:ahmed.amin.akbarali@gmail.com" target="_blank">
-                                <img className="header-image" src={email} alt="email"/>
+                    </Navbar>
+
+                    <Navbar>
+                            <Nav.Item>
+                                <Nav.Link href="https://www.linkedin.com/in/ahmed-akbarali-4799b570/" style={{padding: "0.25rem"}} rel="noreferrer" target="_blank">
+                                    <img className="header-image" src={linkedin} alt="linkedin"/>
+                                </Nav.Link>
+                            </Nav.Item>
+                            <Nav.Item>
+                                <Nav.Link href="https://www.github.com/AhmedAkbarali" style={{padding: "0.25rem"}} rel="noreferrer" target="_blank">
+                                    <img className="header-image" src={github} alt="github"/>
+                                </Nav.Link>
+                            </Nav.Item>
+                            <Nav.Item>
+                                <Nav.Link href="mailto:ahmed.amin.akbarali@gmail.com" style={{padding: "0.25rem"}} target="_blank">
+                                    <img className="header-image" src={email} alt="email"/>
+                                </Nav.Link>
+                            </Nav.Item>
+                        <Nav.Item >
+                            <Nav.Link href="#" style={{paddingRight: '0px'}} onClick={this.handleClick}>
+                                <img className="header-image" style={{maxWidth: '1.5em'}}  src={menu} alt="menu"/>
                             </Nav.Link>
                         </Nav.Item>
                     </Navbar>

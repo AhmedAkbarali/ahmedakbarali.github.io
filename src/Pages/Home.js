@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 
 import NavigationBar from '../components/NavigationBar';
-import PathBar from "../components/PathBar";
 import DLButton from "../components/DLButton";
 import Skills from '../components/Skills';
 import Footer from '../components/Footer';
 
 import renderProject from "../components/helper/renderProject";
 
-import bg from '../images/bg.jpg'
+import bg from '../images/bg.jpg';
+import icon from '../images/favicon.ico';
 
 import '../components/style/App.css';
 import '../components/style/IntroductionAnimation.scss';
@@ -22,19 +22,23 @@ class Home extends Component {
                 <Helmet>
                     <title>Ahmed Akbarali</title>
                     <meta name="keywords"
-                          content="Developer,Web Developer, Frontend developer, Frontend Engineer, Backend Developer
+                          content="Ahmed, Ahmedakbarali, Akbarali, Developer,Web Developer, Frontend developer,
+                                        Frontend Engineer, Backend Developer
                                         Mobile Developer,HTML,CSS,JavaScript, React, ReactJS, NodeJS"
                     />
                     <meta
                         name="description"
                         content="Home page of Ahmed's portfolio site."
                     />
+                    <link rel="icon" type="image/x-icon" href={icon} />
                 </Helmet>
                 <div className="App home"
                      style={{
-                         backgroundImage: `url(${bg})`,
-                         backgroundSize: '100%',
-                         border: ' 2px solid black'
+                         background: `url(${bg}) no-repeat center center`,
+                         backgroundSize: 'cover',
+                         border: ' 2px solid black',
+                         maxWidth: '100vw',
+                         maxHeight: '100vh'
                      }}
                 >
                     <NavigationBar />
@@ -45,7 +49,6 @@ class Home extends Component {
                         </div>
                     </div>
                     <DLButton />
-                    <PathBar />
                 </div>
 
                 <p className="align-self-center section-heading">
